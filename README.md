@@ -8,7 +8,7 @@ A beautiful, real-time status dashboard for monitoring infrastructure and applic
 ## 🌐 Live Dashboard
 
 **Access the live dashboard at:**
-👉 **https://gaetanneo.github.io/Demo-github-project/**
+👉 **https://Alomba08.github.io/Demo-github-project/**
 
 ## 📋 Features
 
